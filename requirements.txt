@@ -5,7 +5,7 @@ beautifulsoup4==4.12.2
 colorama==0.4.3
 distlib==0.3.1
 Django>=3.0.7,<5.0     # Update: Allow any version of Django between 3.0.7 and 5.0 (excluding 5.0).
-django-bootstrap-v5==1.0.11
+django-bootstrap-v5>=1.0.11,<5.0     # Update: Allow any version of django-bootstrap-v5 between 1.0.11 and 5.0 (excluding 5.0).
 django-bootstrap5>=23.3     # Update: Allow any version of django-bootstrap5 that is 23.3 or higher.
 django-crispy-forms==1.8.1
 django-filter==2.2.0
